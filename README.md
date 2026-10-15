@@ -1,4 +1,4 @@
-# SecureComm Infrastructure: Sistema de Comunicaciones Seguras Cliente-Servidor
+# Sistema de Comunicaciones Seguras Cliente-Servidor
 
 Solución tecnológica integral que representa la infraestructura de comunicaciones seguras de una pequeña organización, demostrando el uso de distintos mecanismos de seguridad para proteger redes y sesiones por Internet.
 
