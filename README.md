@@ -64,10 +64,10 @@ El proyecto implementa una arquitectura cliente-servidor para contrastar la comu
 
 ---
 
-## ⚙️ Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 Consulta el [README.md](README.md) individual de cada carpeta (`/pki`, `/server`, `/client`) para conocer los comandos específicos de inicialización de la Autoridad Certificadora, levantamiento del servidor TLS y ejecución de las pruebas de seguridad.
 
 ---
 
-## 📜 Licencia / Uso
+##  Licencia / Uso
 Proyecto académico desarrollado para fines educativos. Uso restringido en el marco de las actividades de la materia.
