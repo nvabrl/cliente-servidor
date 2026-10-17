@@ -1,0 +1,13 @@
+# Claves privadas: nunca subir a GitHub
+*.key
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos auxiliares de macOS
+.DS_Store
