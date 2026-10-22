@@ -9,7 +9,7 @@ _candado = threading.Lock()
 
 
 def ruta_log():
-    return os.environ.get("AUDIT_LOG", config.LOG_FILE)
+    return os.environ.get("AUDIT_LOG_otro_mas", config.LOG_FILE)
 
 
 def registrar(evento, usuario="-", ip="-", recurso="-", resultado="OK", detalle=""):
